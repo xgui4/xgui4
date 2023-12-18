@@ -21,5 +21,4 @@
         System.out.print(txt);
     }
 } 
-<code>
 ```

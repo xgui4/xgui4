@@ -5,7 +5,7 @@ ANG
   
 FR
 - 👋 Salut, je m'appelle @xgui4
-- 👀 Je m'intéresse à la programmation et aux jeux dans des jeux comme Fortnite et Minecraft
+- 👀 Je m'intéresse à la programmation et aux jeux comme Fortnite et Minecraft
 - 🌱 J'apprends actuellement Python, C#, JS, HTML5, CSS3, Java, Rust et commande Minecraft.
 
 Cette classe Java, rend Java beaucoup mieux :

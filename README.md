@@ -1,12 +1,12 @@
 ANG
 - 👋 Hi, I’m @xgui4
 - 👀 I’m interested in programming and gaming in game like Fortnite and Minecraft
-- 🌱 I’m currently learning Python, C#, JS, HTML5, CSS3, Java, Rust et commande Minecraft.
+- 🌱 I’m currently learning Python, C#, JS, HTML5, CSS3, Java & a little bit of Rust and MC Command
   
 FR
 - 👋 Salut, je m'appelle @xgui4
 - 👀 Je m'intéresse à la programmation et aux jeux comme Fortnite et Minecraft
-- 🌱 J'apprends actuellement Python, C#, JS, HTML5, CSS3, Java, Rust et commande Minecraft.
+- 🌱 J'apprends actuellement Python, C#, JS, HTML5, CSS3, Java et un tout petit peu de rust et commande Minecraft
 
 Cette classe Java, rend Java beaucoup mieux :
 ``` java

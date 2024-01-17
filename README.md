@@ -9,7 +9,7 @@ FR
 - 🌱 J'apprends actuellement Python, C#, JS, HTML5, CSS3, Java et un tout petit peu de rust et commande Minecraft
 
 [![Xgui4's Stat GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=xgui4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgui4&theme=tokyonight)
 
 Cette classe Java, rend Java beaucoup mieux :
 ``` java

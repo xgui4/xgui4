@@ -8,8 +8,9 @@ FR
 - 👀 Je m'intéresse à la programmation et aux jeux comme Fortnite et Minecraft
 - 🌱 J'apprends actuellement Python, C#, JS, HTML5, CSS3, Java et un tout petit peu de rust et commande Minecraft
 
-[![Xgui4's Stat GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xgui4)](https://github.com/anuraghazra/github-readme-stats)
+Mes stats publique (J'ai plein de repo privées): 
+- [![Xgui4's Stat GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xgui4)](https://github.com/anuraghazra/github-readme-stats)
 
 Cette classe Java, rend Java beaucoup mieux :
 ``` java

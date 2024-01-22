@@ -2,7 +2,7 @@ ANG
 - 👋 Hi, I’m @xgui4
 - 👀 I’m interested in programming and gaming in game like Fortnite and Minecraft
 - 🌱 I’m currently learning C#, JS, HTML5, CSS3 (in pause, in this moment) and a little of Python, Java and C++
-- In addition I know a little Python, Java, Rust, C++ and Minecraft Command and modding Minecraft Forge/Noeforge (1.20.1)
+- In addition I know a little Python, Java, Rust, C++ and Minecraft Command and modding Minecraft Forge/Neoforge (1.20.1)
   
 FR
 - 👋 Salut, je m'appelle @xgui4

@@ -1,40 +1,26 @@
-ANG
-- 👋 Hi, I’m @xgui4
-- 👀 I’m interested in programming and gaming in game like Fortnite and Minecraft
-- 🌱 I’m currently learning C#, JS, HTML5, CSS3 (in pause, in this moment) and a little of Python, Java and C++
-- In addition I know a little Python, Java, Rust, C++ and Minecraft Command and modding Minecraft Forge/Neoforge (1.20.1)
-  
-FR
-- 👋 Salut, je m'appelle @xgui4
-- 👀 Je m'intéresse à la programmation et aux jeux comme Fortnite et Minecraft
-- 🌱 J'apprends actuellement C#, JS, HTML5, CSS3 (en pause en ce moment) et un peu de Python, Java et C++
-- En plus je connais un peu de Python, Java, Rust, C++ et Commande Minecraft et le modding Minecraft Forge/Neoforge (1.20.1)
+<h1 align="center">Bonjour, je suis Xgui4</h1>
+<h3 align="center">Je suis un futur programmeur</h3>
 
-Mes connaisances :
-![MesConnaisances](mesconnaisances.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xgui4&label=Profile%20views&color=0e75b6&style=flat" alt="xgui4" /> </p>
 
-Mes stats publique (J'ai plein de repo privées): 
-- [![Xgui4's Stat GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xgui4)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xgui4" alt="xgui4" /></a> </p>
 
-Cette classe Java, rend Java beaucoup mieux :
-``` java
- import java.util.Scanner;
- public class Console {
- public static String ReadLine(String txt)
-   {
-        Scanner scanner  = new Scanner(System.in);
-        System.out.println(txt);
-        String name = scanner.nextLine();
-        return name;
-   }
-  public static void WriteLine(String txt)
-   {
-        System.out.println(txt);
-   }
-  public static void Write(String txt)
-  {
-        System.out.print(txt);
-  }
-} 
-```
+- 🔭 I’m currently working on [Radium Launcher](https://github.com/xgui4/Radium-Launcher)
+
+- 🌱 I’m currently learning **Java, PHP PostgreSQL**
+
+- ⚡ Fun fact **C# is awesome**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgui4&show_icons=true&locale=en&layout=compact" alt="xgui4" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xgui4&show_icons=true&locale=en" alt="xgui4" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgui4&" alt="xgui4" /></p>
+

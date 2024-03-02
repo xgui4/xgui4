@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Radium Launcher](https://github.com/xgui4/Radium-Launcher)
 
-- 🌱 I’m currently learning **Java, PHP and PostgreSQL**
+- 🌱 I’m currently learning **Java (Côté orienté objet), PHP and PostgreSQL**
 
 - ⚡ Fun fact **C# is awesome**
 

@@ -12,7 +12,7 @@
 - ⚡ Fun fact **C# is awesome**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> Compte Linknlt à venir ... 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

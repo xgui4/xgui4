@@ -1,3 +1,4 @@
+ You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?
 <center>
 <a href="https://neuro.nya.pub/fun/ostan" target="new">
 <img src="https://neuro.nya.pub/fun/ostan/longhorn.jpg" border="0">

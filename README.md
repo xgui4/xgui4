@@ -1,3 +1,8 @@
+<center>
+<a href="https://neuro.nya.pub/fun/ostan" target="new">
+<img src="https://neuro.nya.pub/fun/ostan/longhorn.jpg" border="0">
+</a><br>
+
 <h1 align="center">Bonjour, je suis Xgui4</h1> <a href=" https://notbyai.fyi"> <img src="https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg" alt="not by ai"> </a>
 <h3 align="center">Je suis un futur programmeur</h3>
 

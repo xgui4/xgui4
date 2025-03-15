@@ -11,9 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xgui4" alt="xgui4" /></a> </p>
 
-- 🔭 I’m currently working on [Radium Launcher](https://github.com/xgui4/Radium.Launcher)
-
-- 🌱 I’m currently learning **Java (Côté orienté objet), PHP and PostgreSQL**
+- I am currently not focusing on one project 
 
 - ⚡ Fun fact **C# is awesome**
 

@@ -1,3 +1,5 @@
+![2-2-1024x725](https://github.com/user-attachments/assets/18ce8728-af34-4414-ae6e-aa020b555575)
+
  You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?
 <center>
 <a href="https://neuro.nya.pub/fun/ostan" target="new">

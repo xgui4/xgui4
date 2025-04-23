@@ -1,10 +1,9 @@
 > [!TIP]
 > To force the activate the activation of group tab in Firefox which is part of a gradual rollout go to about:config and set this value browser.tabs.groups.enabled to true
 
-![Accepter la différence-clean-version](https://github.com/user-attachments/assets/c188404e-a0d0-42db-acef-e0d6c10948e9)
+![429585620-18ce8728-af34-4414-ae6e-aa020b555575](https://github.com/user-attachments/assets/9ff08110-a196-4059-a97c-9dea5644a13a)
 
-
-![2-2-1024x725](https://github.com/user-attachments/assets/18ce8728-af34-4414-ae6e-aa020b555575)
+![github-banner](https://github.com/user-attachments/assets/f583cbe8-b329-4140-a9b3-680ab52ad0ab)
 
  You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?
 <center>

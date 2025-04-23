@@ -3,7 +3,7 @@
 
 ![429585620-18ce8728-af34-4414-ae6e-aa020b555575](https://github.com/user-attachments/assets/9ff08110-a196-4059-a97c-9dea5644a13a)
 
-![github-banner](https://github.com/user-attachments/assets/ade5c3d5-cf20-466b-bef0-11b290822535)
+![github-banner](https://github.com/user-attachments/assets/f067bc12-fd69-4ee8-ba6b-80ccd9e85881)
 
  You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?
 <center>

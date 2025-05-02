@@ -1,27 +1,89 @@
 > [!TIP]
 > To force the activate the activation of group tab in Firefox which is part of a gradual rollout go to about:config and set this value browser.tabs.groups.enabled to true
 
-![429585620-18ce8728-af34-4414-ae6e-aa020b555575](https://github.com/user-attachments/assets/9ff08110-a196-4059-a97c-9dea5644a13a)
-
 ![github-banner](https://github.com/user-attachments/assets/f067bc12-fd69-4ee8-ba6b-80ccd9e85881)
 
+## About
+Hi ! I am a AuDHD student that is currently studying programming. I know English and French. 
+
+```
  You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?
-<center>
-<a href="https://neuro.nya.pub/fun/ostan" target="new">
-<img src="https://neuro.nya.pub/fun/ostan/longhorn.jpg" border="0">
-</a><br>
+ ```
 
-<h1 align="center">Bonjour, je suis Xgui4</h1> <a href=" https://notbyai.fyi"> <img src="https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg" alt="not by ai"> </a>
-<h3 align="center">Je suis un futur programmeur</h3>
+[os-tan-quiz](https://neuro.nya.pub/fun/ostan)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xgui4&label=Profile%20views&color=0e75b6&style=flat" alt="xgui4" /> </p>
+![os-tan](https://neuro.nya.pub/fun/ostan/longhorn.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xgui4" alt="xgui4" /></a> </p>
+![profile-view](https://komarev.com/ghpvc/?username=xgui4&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="left">Languages and Tools: (to be rewritten)</h3>
+[trophies-source-codes](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgui4&show_icons=true&locale=en&layout=compact" alt="xgui4" /></p>
+![trophies](https://github-profile-trophy.vercel.app/?username=xgui4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xgui4&show_icons=true&locale=en" alt="xgui4" /></p>
+### Current OS 
+* Windows 11
+* Fedora Linux KDE 41
+* Android
+* Arch Linux (Arch Install and EndouvourOS on VM)
+* Windows 8.1 VM 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgui4&" alt="xgui4" /></p>
+### Current Coding Environnement 
+* Visual Studio Code
+* Visual Studio Community 
+* Intellij Education
+* Rider Education
+* Nano, Notepad, Notepad++, Linux GUI text editor for basic script
+* Windows/Fedora Dualboot on one laptop and my other one Windows and Linuxes VM + one Windows 8 and Windows 11 VM and Windows 10 VM 
+* 4K TV connected to my Laptop 
+
+### Software choice
+* Desktop Environnemnt : KDE Plasma 6
+* Terminal : Windows Terminal (Windows), Konsole and Kitty (Linux)
+* Web Browser : Firefox + uBlock Origin + Sponspor Block + DeArrow + Return YouTube Dislike
+* YouTube ReVanced, Spotify Premium  
+
+### Current favorite Game
+* Minecraft
+* Fortnite
+* PVZ
+* Touhou
+
+### Every Used Operating System Ever (Not in order, vm, mobile device and work/school device inckuded)
+* Windows 10/11
+* Fedora Linux KDE
+* Fedora Linux Workstation
+* Windows 7
+* Windows 8
+* Windows 8.1
+* Windows Vista
+* Windows XP
+* Android
+* Ubuntu and certain of its skin
+* Linux Mint
+* Arch Linux, EndavourOS
+* Haiku
+* Kali Linux
+* Debian
+* ElementoryOS
+* OpenMandivra Rome
+* Bazzite / Fedora Silverblue
+* ChromeOS
+* iPadOS
+
+### Known Programming Languages :
+* C#
+* Java
+* CSS/JS/HTML
+* PHP
+* SQL
+* C++
+* Mardown (basic)
+* Bash (Linux)
+* Batch (Windows/DOS)
+* PowerShell (Windows)
+
+![most used language](https://github-readme-stats.vercel.app/api/top-langs?username=xgui4&show_icons=true&locale=en&layout=compact)
+
+![my stats](https://github-readme-stats.vercel.app/api?username=xgui4&show_icons=true&locale=en)
+
+![summary](https://github-readme-streak-stats.herokuapp.com/?user=xgui4&)

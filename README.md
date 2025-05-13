@@ -1,14 +1,17 @@
 > [!TIP]
 > To force the activate the activation of group tab in Firefox which is part of a gradual rollout go to about:config and set this value browser.tabs.groups.enabled to true
 
+Here is a video by "I'm Autistic Now What ?" of the situation of Autism in the USA : 
+[![YouTube Video](https://img.youtube.com/vi/sEIb-1IdDZQ/0.jpg)](https://youtu.be/sEIb-1IdDZQ?si=aBGZbT7xE-M9ML7s)
+
 ![github-banner](https://github.com/user-attachments/assets/f067bc12-fd69-4ee8-ba6b-80ccd9e85881)
 
 ## About
 Hi ! I am a AuDHD student that is currently studying programming. I know English and French. 
 
-```
- You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?
- ```
+
+You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?
+
 
 [os-tan-quiz](https://neuro.nya.pub/fun/ostan)
 

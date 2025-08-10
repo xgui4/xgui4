@@ -1,3 +1,6 @@
+Join the Clippy revolution ! :
+[![YouTube Video](https://img.youtube.com/vi/Dtmpe9qaQ/0.jpg)](https://www.youtube.com/watch?v=2_Dtmpe9qaQ)
+
 > [!TIP]
 > To force the activate the activation of group tab in Firefox which is part of a gradual rollout go to about:config and set this value browser.tabs.groups.enabled to true
 

@@ -1,13 +1,13 @@
-Join the Clippy revolution ! :
+Join the Clippy revolution (Both Videos by Louis Rossman)! :
 
-[![YouTube Video](https://img.youtube.com/vi/2_Dtmpe9qaQ/0.jpg)](https://www.youtube.com/watch?v=2_Dtmpe9qaQ)
-![one](https://img.youtube.com/vi/SkL9vzW7nY0/0.jpg)](https://www.youtube.com/watch?v=SkL9vzW7nY0)
+[![YouTube Video 1](https://img.youtube.com/vi/2_Dtmpe9qaQ/0.jpg)](https://www.youtube.com/watch?v=2_Dtmpe9qaQ)
+[![YouTube Video 2](https://img.youtube.com/vi/SkL9vzW7nY0/0.jpg)](https://www.youtube.com/watch?v=SkL9vzW7nY0)]
 
 > [!TIP]
 > To force the activate the activation of group tab in Firefox which is part of a gradual rollout go to about:config and set this value browser.tabs.groups.enabled to true
 
 Here is a video by "I'm Autistic Now What ?" of the situation of Autism in the USA : 
-[![YouTube Video](https://img.youtube.com/vi/sEIb-1IdDZQ/0.jpg)](https://youtu.be/sEIb-1IdDZQ?si=aBGZbT7xE-M9ML7s)
+[![YouTube Video 3](https://img.youtube.com/vi/sEIb-1IdDZQ/0.jpg)](https://youtu.be/sEIb-1IdDZQ?si=aBGZbT7xE-M9ML7s)
 
 ![github-banner](https://github.com/user-attachments/assets/f067bc12-fd69-4ee8-ba6b-80ccd9e85881)
 

@@ -1,5 +1,3 @@
-<img width="1057" height="600" alt="image" src="https://github.com/user-attachments/assets/0d3a57fb-bf93-414c-9e47-1c73c1e207b2" />
-
 Join the Clippy revolution (Both Videos by Louis Rossman)! :
 
 [![YouTube Video 1](https://img.youtube.com/vi/2_Dtmpe9qaQ/0.jpg)](https://www.youtube.com/watch?v=2_Dtmpe9qaQ)
@@ -98,4 +96,4 @@ You are Longhorn, the unreleased new version of Windows. No one knows much about
 
 ![summary](https://github-readme-streak-stats.herokuapp.com/?user=xgui4&)
 
-last update : 2025-10-21 23:25
+last update : 2025-10-24 23:15

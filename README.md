@@ -6,7 +6,7 @@ Join the Clippy revolution (Both Videos by Louis Rossman)! :
 Here is a video by "I'm Autistic Now What ?" of the situation of Autism in the USA : 
 [![YouTube Video 3](https://img.youtube.com/vi/sEIb-1IdDZQ/0.jpg)](https://youtu.be/sEIb-1IdDZQ?si=aBGZbT7xE-M9ML7s)
 
-![github-banner](https://github.com/user-attachments/assets/f067bc12-fd69-4ee8-ba6b-80ccd9e85881)
+![github-banner](https://github.com/user-attachments/assets/fb30c77f-0ca2-49f1-a6a2-dc6e56159299)
 
 ## About
 Hi ! I am a AuDHD student that is currently studying programming. I know English and French. 

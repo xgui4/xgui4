@@ -21,7 +21,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 ### Software choice
 * Windows Manager/Wayland Compositors : Hyprland and i3wm (With XLibre)
 * Terminal : Konsole and Kitty (Linux)
-* Web Browser : Zen + uBlock Origin + Sponspor Block + DeArrow + Return YouTube Dislike (transitioning du to the new Firefox CEO)
+* Web Browser : Zen + uBlock Origin + Sponspor Block + DeArrow + Return YouTube Dislike (transitioning from Firefox due to the new Firefox CEO)
 * YouTube ReVanced, Spotify Premium  
 
 ### Current favorite Game
@@ -48,7 +48,6 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
       * My main system (EOS) and my current daily driver
      * ElementoryOS
       * tried a little bit in VM, did not like it, look too old and too laggy.
-        and their creator is problematic Wich does not help. 
     * Debian
       * Like for ubuntu.
     * Bazzite / Fedora Silverblue

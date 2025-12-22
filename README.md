@@ -107,11 +107,15 @@ You are Longhorn, the unreleased new version of Windows. No one knows much about
 
 ![os-tan](https://neuro.nya.pub/fun/ostan/longhorn.jpg)
 
+-->
+
 ![profile-view](https://komarev.com/ghpvc/?username=xgui4&label=Profile%20views&color=0e75b6&style=flat)
 
 [trophies-source-codes](https://github.com/ryo-ma/github-profile-trophy)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=xgui4)
+
+<!--
 
 Join the Clippy revolution (Both Videos by Louis Rossman)! :
 
@@ -121,12 +125,11 @@ Join the Clippy revolution (Both Videos by Louis Rossman)! :
 Here is a video by "I'm Autistic Now What ?" of the situation of Autism in the USA : 
 [![YouTube Video 3](https://img.youtube.com/vi/sEIb-1IdDZQ/0.jpg)](https://youtu.be/sEIb-1IdDZQ?si=aBGZbT7xE-M9ML7s)
 
+--> 
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs?username=xgui4&show_icons=true&locale=en&layout=compact)
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=xgui4&show_icons=true&locale=en)
 
 ![summary](https://github-readme-streak-stats.herokuapp.com/?user=xgui4&)
-
--->
 
 last update : 2025-12-22

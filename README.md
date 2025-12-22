@@ -1,4 +1,4 @@
-![github-banner](https://github.com/user-attachments/assets/fb30c77f-0ca2-49f1-a6a2-dc6e56159299)
+<!-- [Image too big for now] ![github-banner](https://github.com/user-attachments/assets/fb30c77f-0ca2-49f1-a6a2-dc6e56159299) -->
 
 ## About
 Hi ! I am a AuDHD student that is currently studying programming. I know English and French. 
@@ -30,6 +30,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 * PVZ
 * Touhou
 
+<!--
 ### OS Knowledge
   - Windows NT (XP to 11)
       * Mainly Windows 10 and Windows 11
@@ -62,6 +63,8 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
     * Android
     * ChromeOS
     * iPadOS
+List too big
+-->
     
 ### Known Programming Languages :
 
@@ -92,7 +95,9 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
   * WAMP (a little , leaning a school but i no longer daily drive Win$hit,
   so it is not something i still practice)
   * Basic Winform 
- 
+
+
+<!--
 ### Others
 
 Result of a quiz: 
@@ -121,5 +126,7 @@ Here is a video by "I'm Autistic Now What ?" of the situation of Autism in the U
 ![my stats](https://github-readme-stats.vercel.app/api?username=xgui4&show_icons=true&locale=en)
 
 ![summary](https://github-readme-streak-stats.herokuapp.com/?user=xgui4&)
+
+-->
 
 last update : 2025-12-20

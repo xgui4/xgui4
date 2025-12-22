@@ -113,7 +113,7 @@ You are Longhorn, the unreleased new version of Windows. No one knows much about
 
 [trophies-source-codes](https://github.com/ryo-ma/github-profile-trophy)
 
-![trophies](https://github-profile-trophy.vercel.app/?username=xgui4)
+![trophies](https://github-profile-trophy.vercel.app/?username=xgui4&theme=onedark)
 
 <!--
 

@@ -55,7 +55,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
   * ![Batch/DOS](https://img.shields.io/badge/Batch%2FDOS-Windows%20Commnd%20Prompt-grey?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
   * ![Simple App + Script in Python](https://img.shields.io/badge/Python-Script%20%2B%20Simple%20App-blue?style=for-the-badge&labelColor=black&logo=python&logoColor=white&logoSize=auto)
 
-### Frameworks I know
+## Frameworks I know
 
 * Jetpack Compose and Android SDK (Kotlin)
 * WPF (Dotnet/C#)
@@ -65,7 +65,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 so it is not something i still practice)
 * Basic Winform
 
-### Others
+## Others
 
 ![profile-view](https://komarev.com/ghpvc/?username=xgui4&label=Profile%20views&color=0e75b6&style=flat)
 ![trophies](https://github-profile-trophy.vercel.app/?username=xgui4&theme=onedark)

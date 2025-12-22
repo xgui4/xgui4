@@ -96,9 +96,9 @@ List too big
   so it is not something i still practice)
   * Basic Winform 
 
+### Others
 
 <!--
-### Others
 
 Result of a quiz: 
 You are Longhorn, the unreleased new version of Windows. No one knows much about you. You're very mysterious, but will you ever be released?

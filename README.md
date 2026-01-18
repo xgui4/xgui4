@@ -76,11 +76,9 @@ so it is not something i still practice)
 
 ## Others
 
-![profile-view](https://komarev.com/ghpvc/?username=xgui4&label=Profile%20views&color=0e75b6&style=flat)
-![trophies](https://github-profile-trophy.vercel.app/?username=xgui4&theme=onedark)
+![Xgui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgui4&langs_count=20&layout=pie&theme=dracula)
 
-![most used language](https://github-readme-stats.vercel.app/api/top-langs?username=xgui4&show_icons=true&locale=en&layout=compact)
-![my stats](https://github-readme-stats.vercel.app/api?username=xgui4&show_icons=true&locale=en)
-![summary](https://github-readme-streak-stats.herokuapp.com/?user=xgui4&)
+last update : 2026-01-18
 
-last update : 2025-12-22
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-actions-recommended --!>

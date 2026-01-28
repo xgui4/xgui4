@@ -34,8 +34,7 @@ GUI Frameworks
 Programmuing Languages
 
 ![My Programming Languages skills](https://skillicons.dev/icons?i=java,c,cpp,cs,dotnet,kotlin,py,php,bash,js)
-
-and  ![Fish (Linux Terminal)](https://img.shields.io/badge/Fish-Linux%20Terminal%20Lover-10b046?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto) ! [Batch/DOS](https://img.shields.io/badge/Batch%2FDOS-Windows%20Commnd%20Prompt-grey?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
+![Fish](https://img.shields.io/badge/Fish-Shell?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto) ![Batch/DOS](https://img.shields.io/badge/CMD-grey?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
 
 Tools and IDE
 

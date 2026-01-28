@@ -35,6 +35,8 @@ Programmuing Languages
 
 ![My Programming Languages skills](https://skillicons.dev/icons?i=java,c,cpp,cs,dotnet,kotlin,py,php,bash,js)
 
+and  ![Fish (Linux Terminal)](https://img.shields.io/badge/Fish-Linux%20Terminal%20Lover-10b046?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto) ! [Batch/DOS](https://img.shields.io/badge/Batch%2FDOS-Windows%20Commnd%20Prompt-grey?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
+
 Tools and IDE
 
 ![Tools and IDE](https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,vscodium)
@@ -50,11 +52,6 @@ Markup Languages
 Database 
 
 ![Simple Query With SQL](https://img.shields.io/badge/SQL-Simple%20Query-173afd?style=for-the-badge&labelColor=black&logo=sqlite&logoSize=auto)
-
-Scripts
-
-![Fish (Linux Terminal)](https://img.shields.io/badge/Fish-Linux%20Terminal%20Lover-10b046?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
-![Batch/DOS](https://img.shields.io/badge/Batch%2FDOS-Bindoj%20Commnd%20Prompt-grey?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
 
 Others GUI Frameworks : 
 * Jetpack Compose and Android SDK (Kotlin)

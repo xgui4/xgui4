@@ -1,39 +1,21 @@
 # About
 
-<img alt="My Github Banner" src="https://github.com/user-attachments/assets/fb30c77f-0ca2-49f1-a6a2-dc6e56159299" width="500" height="400">
+<img alt="My ShitHub Banner" src="https://github.com/user-attachments/assets/fb30c77f-0ca2-49f1-a6a2-dc6e56159299" width="500" height="400">
 
-Hi ! I am a AuDHD student that is currently studying programming. I know English and French.
+Hi ! I am a AuDHD student that is currently studying programming. I know English and French. My favoritess games are Minecraft, Fortnite, PVZ and Touhou
 
-## Current OS
+## Current Daily Drivers OS  
 
-* EndeavourOS (Arch BTW)
-  * Hyprland
-  * i3wm (XLibre)
-* GhostBSD (not working right now, I have to fix it)
-* Android
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-(Arch%20BTW)-orange?style=social&logo=EndeavourOS)
+![Hyprland](https://img.shields.io/badge/Hyprland-with%20my%20dotfiles-informational?style=flat&logo=Hyprland)
+![Qtile](https://img.shields.io/badge/Qtile-with%20XLibre-informational?style=flat&logo=wm)
+![i3wm](https://img.shields.io/badge/i3wm-with%20XLibre-informational?style=flat&logo=i3)
 
-## Current Coding Environnement
+![GhostBSD](https://img.shields.io/badge/GhostBSD-based%20on%20FreeBSD-informational?style=social&logo=FreeBSD)
+![MATE](https://img.shields.io/badge/MATE-with%20i3wm%20and%20XLibre-informational?style=flat&logo=gnome)
 
-* Visual Studio Code,
-* Nano,
-* Kate,
-* Notepad++,
-* VirtManager for VMs
-* 4K TV connected to my Laptop
-
-## Software choice
-
-* Windows Manager/Wayland Compositors : Hyprland and i3wm (With XLibre)
-* Terminal : Konsole and Kitty (Linux)
-* Web Browser : Zen Browser + uBlock Origin + Sponspor Block + DeArrow + Return YouTube Dislike
-* YouTube ReVanced, Spotify Premium  
-
-## Current favorite Game
-
-* Minecraft
-* Fortnite
-* PVZ
-* Touhou
+![Android](https://img.shields.io/badge/Android-NothingOS-informational?style=social&logo=Android)
+![Termux](https://img.shields.io/badge/Termux-on%20Android%20and%20Android%20Tablet-informational?style=flat)
 
 ## Known Programming Languages
 
@@ -61,7 +43,7 @@ Database
 Scripts
 
 ![Bash (Linux Terminal)](https://img.shields.io/badge/Bash-Linux%20Terminal%20Lover-10b046?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=white&logoSize=auto)
-![Batch/DOS](https://img.shields.io/badge/Batch%2FDOS-Windows%20Commnd%20Prompt-grey?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
+![Batch/DOS](https://img.shields.io/badge/Batch%2FDOS-Bindoj%20Commnd%20Prompt-grey?style=for-the-badge&labelColor=black&logo=gnometerminal&logoColor=white&logoSize=auto)
 ![Simple App + Script in Python](https://img.shields.io/badge/Python-Script%20%2B%20Simple%20App-blue?style=for-the-badge&labelColor=black&logo=python&logoColor=white&logoSize=auto)
 
 ## Frameworks I know
@@ -70,15 +52,23 @@ Scripts
 * WPF (Dotnet/C#)
 * Avalonia (Dotnet/C#)
 * GTK (I am learning it) with Makefile and GCC (C23) and GDB (GNU Debugger)
-* WAMP (a little , leaning a school but i no longer daily drive Win$hit,
-so it is not something i still practice)
 * Basic Winform
+
+## Current Coding Environnement
+
+* Visual Studio Code,
+* Nano,
+* Kate,
+* VirtManager for VMs
+* Terminal : Konsole and Kitty (Linux), Bindoj Terminal (Bindoj)
+* Web Browser : Zen Browser and Firefox (wiht essentals extensions like Ublock Origin)
+* 4K TV connected to my Laptop 
 
 ## Others
 
-![Xgui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgui4&langs_count=20&layout=pie&theme=dracula)
+![Xgui4's ShitHub stats](https://ShitHub-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
+![Top Langs](https://ShitHub-readme-stats.vercel.app/api/top-langs/?username=xgui4&langs_count=20&layout=pie&theme=dracula)
 
-last update : 2026-01-18
+last update : 2026-01-27
 
-<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-actions-recommended --!>
+<!-- https://github.com/anuraghazra/ShitHub-readme-stats?tab=readme-ov-file#github-actions-recommended --!>

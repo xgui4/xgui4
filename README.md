@@ -15,6 +15,16 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 ![Android](https://img.shields.io/badge/Android-NothingOS-informational?style=social&logo=Android)
 ![Termux](https://img.shields.io/badge/Termux-on%20Android%20and%20Android%20Tablet-informational?style=flat)
 
+## Current Coding Environnement
+
+* Visual Studio Code,
+* Nano,
+* Kate,
+* VirtManager for VMs
+* Terminal : Konsole and Kitty (Linux), Windows Terminal (Windows)
+* Web Browser : Zen Browser and Firefox (with essentals extensions like Ublock Origin)
+* 4K TV connected to my Laptop 
+
 ## Skills
 
 GUI Frameworks
@@ -52,16 +62,6 @@ Others GUI Frameworks :
 * Avalonia (Dotnet/C#)
 * Pyside 6 (I am learning it)
 * Basic Winform
-
-## Current Coding Environnement
-
-* Visual Studio Code,
-* Nano,
-* Kate,
-* VirtManager for VMs
-* Terminal : Konsole and Kitty (Linux), Windows Terminal (Windows)
-* Web Browser : Zen Browser and Firefox (with essentals extensions like Ublock Origin)
-* 4K TV connected to my Laptop 
 
 ## Others
 

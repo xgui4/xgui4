@@ -61,9 +61,9 @@ Others GUI Frameworks :
 
 ## Others
 
-![Xgui4's ShitHub stats](https://ShitHub-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
-![Top Langs](https://ShitHub-readme-stats.vercel.app/api/top-langs/?username=xgui4&langs_count=20&layout=pie&theme=dracula)
+![Xgui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgui4&langs_count=20&layout=pie&theme=dracula)
 
 last update : 2026-01-28
 
-<!-- https://github.com/anuraghazra/ShitHub-readme-stats?tab=readme-ov-file#github-actions-recommended --!>
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-actions-recommended --!>

@@ -8,6 +8,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 ![Hyprland](https://img.shields.io/badge/Hyprland-with%20my%20dotfiles-informational?style=flat&logo=Hyprland)
 ![Qtile](https://img.shields.io/badge/Qtile-with%20XLibre-informational?style=flat&logo=wm)
 ![i3wm](https://img.shields.io/badge/i3wm-with%20XLibre-informational?style=flat&logo=i3)
+![Niri](https://img.shields.io/badge/niri-with%20DMS-informational?style=flat&logo=niri)
 
 ![GhostBSD](https://img.shields.io/badge/GhostBSD-based%20on%20FreeBSD-informational?style=social&logo=FreeBSD)
 ![MATE](https://img.shields.io/badge/MATE-with%20i3wm%20and%20XLibre-informational?style=flat&logo=gnome)

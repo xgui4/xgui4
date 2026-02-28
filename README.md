@@ -17,7 +17,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 
 ## Current Coding Environnement
 
-* [Visual Studio Code](https://github.com/Microslop/vscode),
+* [Visual Studio Code](https://github.com/Microsoft/vscode),
 * [Nano](https://www.nano-editor.org/),
 * [Kate](https://kate-editor.org/),
 * [VirtManager](https://virt-manager.org/) for VMs
@@ -62,7 +62,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 ## Others (unreliable, will use my own instance)
 
 ![Xgui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgui4&langs_count=20&layout=pie&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api??username=xgui4&langs_count=20&layout=pie&theme=dracula)
 
 last update : 2026-02-02
 

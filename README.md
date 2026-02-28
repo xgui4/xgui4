@@ -4,7 +4,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 
 ## Current Daily Drivers OS  
 
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-(Arch%20BTW)-orange?style=social&logo=EndeavourOS)
+![Artix + EndeavourOS](https://img.shields.io/badge/Artix%20Linu%20and%20EndeavourOS-(Arch%20BTW)-orange?style=social&logo=artixlinux)
 ![Hyprland](https://img.shields.io/badge/Hyprland-with%20my%20dotfiles-informational?style=flat&logo=Hyprland)
 ![Qtile](https://img.shields.io/badge/Qtile-with%20XLibre-informational?style=flat&logo=wm)
 ![i3wm](https://img.shields.io/badge/i3wm-with%20XLibre-informational?style=flat&logo=i3)
@@ -17,7 +17,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 
 ## Current Coding Environnement
 
-* [Visual Studio Code](https://github.com/microsoft/vscode),
+* [Visual Studio Code](https://github.com/Microslop/vscode),
 * [Nano](https://www.nano-editor.org/),
 * [Kate](https://kate-editor.org/),
 * [VirtManager](https://virt-manager.org/) for VMs

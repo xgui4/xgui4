@@ -65,6 +65,6 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 ![Xgui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=xgui4&langs_count=20&layout=pie&theme=dracula)
 
-last update : 2026-02-02
+last update : 2026-04-09
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-actions-recommended --!>

@@ -4,7 +4,7 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 
 ## Current Daily Drivers OS  
 
-![Artix + EndeavourOS](https://img.shields.io/badge/Artix%20Linu%20and%20EndeavourOS-(Arch%20BTW)-orange?style=social&logo=artixlinux)
+![Artix + EndeavourOS](https://img.shields.io/badge/Artix%20Linux%20and%20EndeavourOS-(Arch%20BTW)-orange?style=social&logo=artixlinux)
 ![Hyprland](https://img.shields.io/badge/Hyprland-with%20my%20dotfiles-informational?style=flat&logo=Hyprland)
 ![Qtile](https://img.shields.io/badge/Qtile-with%20XLibre-informational?style=flat&logo=wm)
 ![i3wm](https://img.shields.io/badge/i3wm-with%20XLibre-informational?style=flat&logo=i3)
@@ -65,6 +65,6 @@ Hi ! I am a AuDHD student that is currently studying programming. I know English
 ![Xgui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgui4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=xgui4&langs_count=20&layout=pie&theme=dracula)
 
-last update : 2026-02-02
+last update : 2026-04-09
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-actions-recommended --!>
